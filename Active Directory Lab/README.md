@@ -1,55 +1,57 @@
-# <PROJECT NAME>
+# Active Directory Identity & Access Management Lab
 
-### 📌 Overview
-A hands-on lab focused on <short summary of what the lab demonstrates>.  
-This project simulates real Tier 1 IT Support scenarios and includes step-by-step tasks, troubleshooting, and documentation.
-
----
-
-## 🧩 Key Skills Demonstrated
-- <Skill 1>  
-- <Skill 2>  
-- <Skill 3>  
-- <Skill 4>  
+### 📌 Overview  
+This project simulates real Tier 1 identity and access management work inside a Windows Server Active Directory environment for **MikaTech Solutions Inc.** The lab focuses on user lifecycle operations, authentication support, and access control troubleshooting using a delegated Help Desk account.
 
 ---
 
-## 🛠️ Lab Tasks & Scenarios
-This lab includes:
-
-- <Task or scenario 1>  
-- <Task or scenario 2>  
-- <Task or scenario 3>  
-- <Task or scenario 4>  
-
-(Keep this section concise — just list the main things you performed.)
-
----
-
-## 🖼️ Screenshots
-> Add screenshots that visually support your work.  
-> Place images inside the `/images` folder.
-
-Example:
-
-![Screenshot Title](images/screenshot-example.png)
+## 🧩 Skills Demonstrated
+- Active Directory user management  
+- Password resets & account unlocks  
+- Security group administration  
+- Department-based access control  
+- File server permissions validation  
+- Group Policy verification  
+- Basic troubleshooting on domain-joined clients  
 
 ---
 
-## 📄 Full Report
-A full, formatted PDF walkthrough of this lab is available here:
+## 🚀 What This Lab Covers  
+This lab provides hands-on experience with:
 
-➡ **[Download Report (PDF)](report.pdf)**  
-(includes full steps, notes, troubleshooting, commands, and analysis)
+- Creating, modifying, disabling, and organizing domain user accounts  
+- Assigning group memberships based on department roles  
+- Troubleshooting login failures and authentication issues  
+- Validating NTFS/share permissions across departments  
+- Applying and confirming Group Policies such as USB restrictions  
+- Configuring home folders and login scripts for users  
+
+All tasks replicate common Help Desk responsibilities within a centralized IT environment.
 
 ---
 
-## 🧠 What I Learned
-- <Short takeaway 1>  
-- <Short takeaway 2>  
-- <Short takeaway 3>  
+## 📄 Full Project Report  
+A detailed, step-by-step PDF with explanations and results:
+
+👉 **[Download the Full Lab Report (PDF)](active-directory-lab-report.pdf)**
 
 ---
 
-## 🔗 Related Projects
-- [Back to Portfolio Repository](../)
+## 🧠 Key Takeaways  
+- Improved understanding of enterprise identity workflows  
+- Hands-on practice with role-based access control  
+- Experience troubleshooting user login and permission issues  
+- Familiarity with GPO application, validation, and workstation impact  
+- Insight into how Help Desk technicians support AD-managed environments  
+
+---
+
+## 🔗 Related Projects  
+- Microsoft 365 Lab  
+- Azure Identity Lab  
+- Network Troubleshooting Lab  
+- Ticketing Simulation Lab  
+- Desktop Support Lab  
+
+---
+
