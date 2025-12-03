@@ -1,55 +1,59 @@
-# <PROJECT NAME>
+# Help Desk Ticketing Simulation Lab
 
-### 📌 Overview
-A hands-on lab focused on <short summary of what the lab demonstrates>.  
-This project simulates real Tier 1 IT Support scenarios and includes step-by-step tasks, troubleshooting, and documentation.
-
----
-
-## 🧩 Key Skills Demonstrated
-- <Skill 1>  
-- <Skill 2>  
-- <Skill 3>  
-- <Skill 4>  
+### 📌 Overview  
+This project simulates full ticket lifecycle management for **HarborTech Solutions**, an MSP supporting multiple small businesses. The lab focuses on how Tier 1 technicians create, categorize, work, document, escalate, and close support tickets while following SLA requirements and maintaining clear communication.
 
 ---
 
-## 🛠️ Lab Tasks & Scenarios
-This lab includes:
-
-- <Task or scenario 1>  
-- <Task or scenario 2>  
-- <Task or scenario 3>  
-- <Task or scenario 4>  
-
-(Keep this section concise — just list the main things you performed.)
-
----
-
-## 🖼️ Screenshots
-> Add screenshots that visually support your work.  
-> Place images inside the `/images` folder.
-
-Example:
-
-![Screenshot Title](images/screenshot-example.png)
+## 🧩 Skills Demonstrated
+- Ticket creation, categorization, and prioritization  
+- SLA tracking and time-based decision-making  
+- User communication and status updates  
+- Troubleshooting common IT issues across multiple categories  
+- Writing clear resolution notes and root cause analysis  
+- Escalating tickets with complete diagnostic details  
+- Creating internal Knowledge Base (KB) documentation  
 
 ---
 
-## 📄 Full Report
-A full, formatted PDF walkthrough of this lab is available here:
+## 🚀 What This Lab Covers  
+This lab provides practical experience with end-to-end help desk workflows, including:
 
-➡ **[Download Report (PDF)](report.pdf)**  
-(includes full steps, notes, troubleshooting, commands, and analysis)
+- Building a ticketing system using Jira, FreshDesk, Excel, Notion, or similar tools  
+- Creating ticket categories, priorities, and SLA timers  
+- Working through 15–20 realistic mock tickets (password resets, MFA issues, email problems, network failures, printer issues, software installs, hardware faults, etc.)  
+- Simulating SLA pressure by tracking response and resolution deadlines  
+- Escalating complex tickets with proper handoff notes  
+- Writing KB articles for recurring issues such as MFA resets and printer spooler failures  
+
+The scenarios reflect the daily responsibilities of real support technicians working in managed service or corporate IT environments.
 
 ---
 
-## 🧠 What I Learned
-- <Short takeaway 1>  
-- <Short takeaway 2>  
-- <Short takeaway 3>  
+## 📄 Full Project Report  
+A complete PDF with ticket walkthroughs, troubleshooting logs, SLA results, and KB articles:
+
+👉 **[Download Full Lab Report (PDF)](ticketing-simulation-lab-report.pdf)**
 
 ---
 
-## 🔗 Related Projects
-- [Back to Portfolio Repository](../)
+## 🧠 Key Takeaways  
+- Improved ability to write clear and concise ticket notes  
+- Better understanding of SLA expectations and prioritization  
+- Hands-on practice with realistic troubleshooting across multiple categories  
+- Experience creating searchable KB documentation for internal use  
+- Stronger workflow discipline required in MSP and corporate help desk environments  
+
+---
+
+## 🔗 Related Projects  
+- Active Directory Lab  
+- Microsoft 365 Lab  
+- Azure Identity Lab  
+- Network Troubleshooting Lab  
+- Desktop Support Lab  
+
+---
+
+## 📬 Website  
+Portfolio: **https://mikagellizeau.com**
