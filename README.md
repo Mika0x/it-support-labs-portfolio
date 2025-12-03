@@ -1,2 +1,18 @@
-# it-support-labs-portfolio
-A collection of hands-on IT Support labs covering Active Directory, Microsoft 365, Azure Identity, networking, ticketing workflows, and desktop troubleshooting. Each lab simulates real Tier 1 help desk scenarios to build practical skills for technical support roles.
+# 🖥️ IT Support Labs Portfolio
+
+This repository contains hands-on IT Support labs designed to build real-world help desk skills.  
+Each folder includes:
+
+- A walkthrough README with steps and screenshots  
+- A downloadable PDF report  
+
+## 📁 Projects
+- Active Directory Lab
+- Microsoft 365 Lab
+- Azure Identity Lab
+- Network Troubleshooting Lab
+- Ticketing Simulation Lab
+- Desktop Support Lab
+
+Visit my portfolio website for full descriptions and live previews:
+🔗 https://mikagellizeau.com
