@@ -1,55 +1,60 @@
-# <PROJECT NAME>
+# Network Connectivity & Diagnostics Lab
 
-### 📌 Overview
-A hands-on lab focused on <short summary of what the lab demonstrates>.  
-This project simulates real Tier 1 IT Support scenarios and includes step-by-step tasks, troubleshooting, and documentation.
-
----
-
-## 🧩 Key Skills Demonstrated
-- <Skill 1>  
-- <Skill 2>  
-- <Skill 3>  
-- <Skill 4>  
+### 📌 Overview  
+This project simulates Tier 1–2 network troubleshooting for **Horizon Financial**, a company experiencing widespread connectivity and performance issues. The lab focuses on diagnosing real-world problems involving DNS, DHCP, routing, ICMP, VPN failures, and general TCP/IP connectivity within a controlled virtual environment.
 
 ---
 
-## 🛠️ Lab Tasks & Scenarios
-This lab includes:
-
-- <Task or scenario 1>  
-- <Task or scenario 2>  
-- <Task or scenario 3>  
-- <Task or scenario 4>  
-
-(Keep this section concise — just list the main things you performed.)
-
----
-
-## 🖼️ Screenshots
-> Add screenshots that visually support your work.  
-> Place images inside the `/images` folder.
-
-Example:
-
-![Screenshot Title](images/screenshot-example.png)
+## 🧩 Skills Demonstrated
+- TCP/IP fundamentals and network layer diagnostics  
+- DNS and DHCP troubleshooting  
+- Identifying gateway, routing, and addressing issues  
+- Using ping, tracert, nslookup, ipconfig, and ARP tools  
+- Diagnosing intermittent connectivity and IP conflicts  
+- Interpreting Windows network logs and error conditions  
+- Documenting troubleshooting steps professionally  
 
 ---
 
-## 📄 Full Report
-A full, formatted PDF walkthrough of this lab is available here:
+## 🚀 What This Lab Covers  
+This lab provides hands-on experience with common network failure scenarios, including:
 
-➡ **[Download Report (PDF)](report.pdf)**  
-(includes full steps, notes, troubleshooting, commands, and analysis)
+- Incorrect DNS server configurations  
+- Wrong default gateway or unreachable routers  
+- Duplicate IP address conflicts  
+- DHCP service failures and APIPA behavior  
+- Firewalls blocking ICMP or essential traffic  
+- Corrupted DNS cache or incorrect host mappings  
+- Creating mock tickets with root cause analysis  
+
+Each scenario mirrors real network issues reported to help desk and desktop support teams.
 
 ---
 
-## 🧠 What I Learned
-- <Short takeaway 1>  
-- <Short takeaway 2>  
-- <Short takeaway 3>  
+## 📄 Full Project Report  
+A complete step-by-step PDF with troubleshooting examples, commands used, findings, and resolutions:
+
+👉 **[Download Full Lab Report (PDF)](network-troubleshooting-lab-report.pdf)**
 
 ---
 
-## 🔗 Related Projects
-- [Back to Portfolio Repository](../)
+## 🧠 Key Takeaways  
+- Strengthened troubleshooting methodology using layered diagnostics  
+- Improved comfort with Windows networking tools and packet-level testing  
+- Ability to isolate root causes across DNS, DHCP, routing, and firewall layers  
+- Experience documenting incidents in a ticket-style format  
+- Confidence in analyzing real-world connectivity and performance issues  
+
+---
+
+## 🔗 Related Projects  
+- Active Directory Lab  
+- Microsoft 365 Lab  
+- Azure Identity Lab  
+- Ticketing Simulation Lab  
+- Desktop Support Lab  
+
+---
+
+## 📬 Website  
+Portfolio: **https://mikagellizeau.com**
