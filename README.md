@@ -3,7 +3,7 @@
 This repository contains hands-on IT Support labs designed to build real-world help desk skills.  
 Each folder includes:
 
-- A walkthrough README with steps and screenshots  
+- A README serving as a high-level overview  
 - A downloadable PDF report  
 
 ## 📁 Projects
