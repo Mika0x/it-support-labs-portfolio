@@ -33,7 +33,7 @@ All tasks replicate common Help Desk responsibilities within a centralized IT en
 ## 📄 Full Project Report  
 A detailed, step-by-step PDF with explanations and results:
 
-👉 **[Download the Full Lab Report (PDF)](active-directory-lab-report.pdf)**
+👉 **[Download the Full Lab Report (PDF)]([active-directory-lab-report.pdf](https://drive.google.com/file/d/12lMkTTdA_GA2wV3imfM_ltI_YDBlSZt0/view))**
 
 ---
 
