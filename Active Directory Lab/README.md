@@ -24,7 +24,7 @@ This lab provides hands-on experience with:
 - Troubleshooting login failures and authentication issues  
 - Validating NTFS/share permissions across departments  
 - Applying and confirming Group Policies such as USB restrictions  
-- Configuring home folders and login scripts for users  
+- Configuring home folders and desktop wallpapers for specific department users  
 
 All tasks replicate common Help Desk responsibilities within a centralized IT environment.
 
