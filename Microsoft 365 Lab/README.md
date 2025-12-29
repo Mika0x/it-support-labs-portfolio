@@ -34,7 +34,7 @@ All tasks simulate realistic help desk tickets and administrative responsibiliti
 ## 📄 Full Project Report  
 A detailed step-by-step PDF with explanations, configurations, and results:
 
-👉 **[Download Full Lab Report (PDF)](microsoft-365-lab-report.pdf)**
+👉 **[Download Full Lab Report (PDF)](https://drive.google.com/file/d/1N75ppiHH1jUdJpTSyw71PDTIMOcMb_5m/view)**
 
 ---
 
